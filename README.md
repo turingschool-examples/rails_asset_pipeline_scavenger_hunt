@@ -1,6 +1,6 @@
 # Catch 'Em All!
 
-* `git clone https://github.com/rwarbelow/catch-em-all.git`
+* `git clone git@github.com:turingschool-examples/rails_asset_pipeline_scavenger_hunt.git`
 * `rake db:create db:migrate db:seed`
 * `rails s`
 * navigate to `http://localhost:3000`
